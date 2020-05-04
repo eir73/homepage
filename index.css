@@ -1,6 +1,10 @@
 .contacts li a.twitter:hover {
-    color: #00acee;
+    color: #00ACEE;
 }
 .contacts li a.instagram:hover {
     color: #E82768;
+}
+
+.contacts li a.mail: hover {
+    color: gold;
 }
