@@ -1,8 +1,9 @@
 .contacts li a.twitter:hover {
-    color: #00ACEE;
+    color: #00acee;
 }
+
 .contacts li a.instagram:hover {
-    color: #E82768;
+    color: #e82768;
 }
 
 .contacts li a.email:hover {
@@ -28,7 +29,7 @@
     transition: opacity ease 0.7s;
 }
 
-.dollar:hover img{
+.dollar:hover img {
     opacity: 0.75;
 }
 
